@@ -7,5 +7,5 @@
     
     
 ## Actual Implementation    
-* VGG19 [(LINK)]()
+* VGG19 [(LINK)](https://github.com/Johyeonje/Deep_Learning_Thesis/blob/master/VGG19_Actual_Implementation.ipynb)
     
